@@ -1,0 +1,12 @@
+dl {
+    margin : 0em;
+    padding : 0em;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    margin-left : 1em;
+    margin-bottom: 1em;
+    font-size : smaller;
+}
